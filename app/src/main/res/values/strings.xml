@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">FacebookNewsFeed</string>
+    <string name="app_name">FacebookNews</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="hint_username">Email or Phone number</string>
+    <string name="hint_password">Password</string>
+    <string name="forget_password">Quên mật khẩu ?</string>
+    <string name="create_new_account">Tạo tải khoản mới</string>
 </resources>
