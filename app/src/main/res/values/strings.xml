@@ -5,4 +5,5 @@
     <string name="hint_password">Password</string>
     <string name="forget_password">Quên mật khẩu ?</string>
     <string name="create_new_account">Tạo tải khoản mới</string>
+    <string name="search">Tìm kiếm</string>
 </resources>
